@@ -5,7 +5,7 @@
 
 ##### Aluna de back-end na {Reprograma}
 
-##### No tempo livre gosto de praia(:ocean:, :sunny:, :palm_tree:), trilhas(:decidous_tree:, :frog:), ler(:books:), assistir filmes(:tv:) e ouvir músicas(:notes:).
+##### No tempo livre gosto de praia(:ocean:, :sunny:, :palm_tree:), trilhas(:deciduous_tree:, :frog:), ler(:books:), assistir filmes(:tv:) e ouvir músicas(:notes:).
 
 ##### "O sucesso é a soma de pequenos esforços repetidos diariamente." 
 
